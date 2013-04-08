@@ -1,0 +1,4 @@
+circus==0.7.0
+iowait==0.1
+psutil==0.6.1
+pyzmq==13.0.2
